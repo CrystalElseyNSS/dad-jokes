@@ -9,6 +9,12 @@ h2 {
     font-family: 'Fredericka the Great', cursive;
 }
 
+.joke--answer {
+    font-size: 36px;
+    height: 25%;
+    width: 50%;
+}
+
 .joke--button {
     align-items: center;
     border: 4px outset gold;

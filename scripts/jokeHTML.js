@@ -7,7 +7,7 @@ export const dadJokeHTML = (dadJokeObject) => {
             <button class="joke--button" id="button--${dadJokeObject.id}">Answer 🌽</button>
             <dialog class="joke--answer" id="dialog--${dadJokeObject.id}">
                 <p>${dadJokeObject.answer}</p>
-                <button class="joke--button buttons--close">Groan</button>
+                <button class="joke--button buttons--close">Groan 🧀</button>
             </dialog>
         </section>
     `
