@@ -1,0 +1,41 @@
+h1 {
+    color: whitesmoke;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 52px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.joke--button {
+    align-items: center;
+    border: 4px outset gold;
+    border-radius: 10px;
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 18px;
+    padding: 10px auto;
+}
+
+.jokesContainer {
+    background-color: black;
+}
+
+.jokesSection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.joke {
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-family: 'Overlock', cursive;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 20%;
+}
